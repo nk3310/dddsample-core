@@ -2,3 +2,12 @@
 dddsample.iml
 .idea
 target
+
+build
+.gradle
+
+bin
+.settings
+.classpath
+.project
+
